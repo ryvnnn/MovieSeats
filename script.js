@@ -13,5 +13,5 @@ app.listen(3000, function () {
   console.log("server is running on port 3000");
 });
 
-let count = document.getElementById("count");
+// let count = document.getElementById("count");
 // document.getElementsByClassName("seat").addEventLister("click", function () {});
