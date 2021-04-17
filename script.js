@@ -14,4 +14,4 @@ app.listen(3000, function () {
 });
 
 let count = document.getElementById("count");
-document.getElementsByClassName("seat").addEventLister("click", function () {});
+// document.getElementsByClassName("seat").addEventLister("click", function () {});
